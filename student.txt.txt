@@ -1,0 +1,4 @@
+Student Management System
+Student Name:Bhavya
+USN:4GW25CS016
+Department:CSE
